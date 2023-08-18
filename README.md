@@ -1,3 +1,6 @@
+# Live Demo:
+https://react-firebase-movies.netlify.app/
+
 # About this project: 
 Here I implement fetching functionality with Firebase. It's just a practice of how can add and fetch data from the Firebase. It is a very simple app which is for practice.
 
