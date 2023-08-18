@@ -1,3 +1,8 @@
+# About this project: 
+Here I implement fetching functionality with Firebase. It's just a practice of how can add and fetch data from the Firebase. It is a very simple app which is for practice.
+
+Hook used: useState,useEffect,useCallback and useRef
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
